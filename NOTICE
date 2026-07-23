@@ -1,0 +1,17 @@
+DermaAttr-VLM — Attribution Notice
+
+This repository uses metadata and derived information from DERM12345:
+
+Yilmaz, A., Yasar, S. P., Gencoglan, G., and Temelkuran, B.
+"DERM12345: A Large, Multisource Dermatoscopic Skin Lesion Dataset with 40 Subclasses."
+Scientific Data 11, 1302 (2024).
+Article DOI: 10.1038/s41597-024-04104-3
+Dataset DOI: 10.7910/DVN/DAXZ7P
+Dataset license: Creative Commons Attribution 4.0 International.
+
+The source metadata included in `source_metadata/metadata.csv` records the attribution
+"Imperial College London" and the license "CC-BY" for the 12,345 source records.
+
+Original dermoscopic image files are not distributed in this release.
+The selected 500-image local IDs cannot be linked reliably to the authoritative source IDs,
+patient IDs, or lesion IDs using the files currently available in this repository.

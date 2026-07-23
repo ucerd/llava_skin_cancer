@@ -1,0 +1,37 @@
+name: Validate repository
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Compile Python source
+        run: python -m compileall -q .
+
+      - name: Validate frozen checksums
+        working-directory: src/data
+        run: sha256sum -c checksums.sha256
+
+      - name: Validate JSONL syntax
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          paths = [Path('data.jsonl'), *Path('src/data').glob('qa_*.jsonl')]
+          for path in paths:
+              with path.open(encoding='utf-8') as stream:
+                  for line_number, line in enumerate(stream, 1):
+                      json.loads(line)
+              print(f'{path}: OK')
+          PY

@@ -1,0 +1,12 @@
+DERM12345 source attribution
+
+Dataset:
+Yilmaz, A., Yasar, S. P., Gencoglan, G., and Temelkuran, B.
+DERM12345: A Large, Multisource Dermatoscopic Skin Lesion Dataset with 40 Subclasses.
+Scientific Data 11, 1302 (2024).
+Article DOI: 10.1038/s41597-024-04104-3
+Dataset DOI: 10.7910/DVN/DAXZ7P
+License: Creative Commons Attribution 4.0 International.
+
+The included source metadata file records the attribution "Imperial College London"
+for all 12,345 entries. Original image files are not redistributed in this repository.

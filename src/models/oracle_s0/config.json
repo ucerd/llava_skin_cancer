@@ -1,0 +1,7 @@
+{
+  "config": "oracle",
+  "epochs_done": 3,
+  "steps": 672,
+  "train_items": 1798,
+  "wall_seconds": 6574.233953237534
+}

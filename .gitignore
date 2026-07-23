@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.py[cod]
+logs/
+images/*.jpg
+images/*.jpeg
+images/*.png
+llava-base-model/*
+!llava-base-model/README.md
+llava-finetuned/*
+!llava-finetuned/README.md
+!llava-finetuned/adapter_config.json
+src/models/**/*.pt
+src/models/**/*.safetensors
+
+# Local experiment and cache artifacts
+.cache/
+.huggingface/
+wandb/
+runs/
+*.log
+*.ckpt
+*.bin
+*.onnx
+.DS_Store
+.ipynb_checkpoints/

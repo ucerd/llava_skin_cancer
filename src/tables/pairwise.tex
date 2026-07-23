@@ -1,0 +1,17 @@
+\begin{table}
+\caption{Pairwise DeLong (AUROC) and McNemar (paired correctness) tests vs DermaAttr-VLM (predicted attrs).}
+\label{tab:pairwise_real}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+reference & other & n & auroc_ref & auroc_other & delong_p & mcnemar_b & mcnemar_c & mcnemar_p & delong_p_holm & mcnemar_p_holm \\
+\midrule
+full_s0 & No-attribute ablation & 118 & 0.963 & 0.959 & 0.196 & 2 & 0 & 0.500 & 0.785 & 1.000 \\
+full_s0 & DermaAttr-VLM (oracle attrs) & 118 & 0.963 & 0.962 & 0.734 & 3 & 0 & 0.250 & 1.000 & 1.000 \\
+full_s0 & ConvNeXt-Tiny (linear probe) & 118 & 0.963 & 0.954 & 0.596 & 5 & 6 & 1.000 & 1.000 & 1.000 \\
+full_s0 & Standard LLaVA-LoRA & 118 & 0.963 & 0.872 & 0.012 & 15 & 7 & 0.134 & NaN & NaN \\
+full_s0 & Zero-shot LLaVA & 118 & 0.963 & 0.821 & 0.001 & 31 & 8 & 0.000 & 0.005 & 0.002 \\
+full_s0 & ResNet-50 (linear probe) & 118 & 0.963 & 0.955 & 0.640 & 8 & 5 & 0.581 & 1.000 & 1.000 \\
+full_s0 & Swin-Tiny (linear probe) & 118 & 0.963 & 0.928 & 0.131 & 8 & 5 & 0.581 & 0.655 & 1.000 \\
+\bottomrule
+\end{tabular}
+\end{table}

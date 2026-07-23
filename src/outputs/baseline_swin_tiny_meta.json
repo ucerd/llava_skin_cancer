@@ -1,0 +1,6 @@
+{
+  "model": "swin_tiny",
+  "type": "frozen-features + class-weighted logistic (linear probe)",
+  "threshold": 0.2277118149810212,
+  "n_test": 118
+}

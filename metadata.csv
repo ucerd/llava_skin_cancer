@@ -1,0 +1,501 @@
+isic_id,anatom_site_general,anatom_site_special,diagnosis_1,diagnosis_2,diagnosis_3,diagnosis_4,diagnosis_5,diagnosis_confirm_type,,melanocytic
+1,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+2,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+3,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+4,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+5,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+6,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+7,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+8,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+9,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+10,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+11,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+12,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+13,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+14,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+15,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+16,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+17,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+18,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+19,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+20,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+21,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+22,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+23,,,Benign,Benign melanocytic proliferations,Lentigo simplex,,,,,TRUE
+24,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+25,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+26,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+27,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+28,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+29,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+30,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+31,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+32,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+33,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+34,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+35,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+36,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+37,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+38,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+39,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+40,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+41,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+42,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+43,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+44,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+45,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+46,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+47,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+48,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+49,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+50,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+51,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+52,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+53,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+54,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+55,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+56,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+57,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+58,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+59,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+60,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+61,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+62,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+63,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+64,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+65,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+66,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+67,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+68,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+69,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+70,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+71,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+72,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+73,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+74,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+75,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+76,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+77,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+78,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+79,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+80,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+81,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+82,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+83,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+84,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+85,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+86,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+87,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+88,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+89,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+90,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+91,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+92,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+93,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+94,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+95,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+96,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+97,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+98,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+99,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+100,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+101,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+102,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+103,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+104,,,Benign,Benign melanocytic proliferations,Lentigo simplex,,,,,TRUE
+105,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+106,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+107,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+108,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+109,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+110,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+111,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+112,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+113,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+114,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+115,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+116,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,histopathology,,TRUE
+117,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+118,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+119,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+120,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+121,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+122,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+123,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+124,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,histopathology,,TRUE
+125,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+126,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+127,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+128,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+129,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+130,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+131,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+132,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+133,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+134,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+135,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+136,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+137,,,Benign,Benign melanocytic proliferations,Lentigo simplex,,,,,TRUE
+138,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+139,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+140,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+141,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+142,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+143,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+144,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+145,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+146,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+147,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+148,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+149,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+150,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+151,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+152,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+153,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+154,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+155,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+156,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+157,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+158,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+159,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+160,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+161,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+162,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+163,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+164,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+165,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+166,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+167,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+168,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+169,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+170,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+171,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+172,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+173,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+174,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+175,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+176,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+177,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+178,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+179,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+180,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+181,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+182,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+183,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+184,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+185,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+186,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+187,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+188,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+189,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+190,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+191,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+192,,,Benign,Benign epidermal proliferations,Lichen planus like keratosis,,,,,FALSE
+193,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+194,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,histopathology,,TRUE
+195,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+196,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+197,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+198,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+199,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+200,,,Benign,Flat melanotic pigmentations - not melanocytic nevus,Ink-spot lentigo,,,,,TRUE
+201,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+202,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,histopathology,,TRUE
+203,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+204,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+205,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+206,,,Benign,Benign soft tissue proliferations - Vascular,Angiokeratoma,,,,,FALSE
+207,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+208,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+209,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+210,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+211,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+212,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+213,,,Benign,Benign soft tissue proliferations - Vascular,Vascular spider,,,,,FALSE
+214,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+215,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+216,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+217,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+218,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+219,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+220,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+221,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+222,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+223,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+224,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+225,,,Benign,Benign soft tissue proliferations - Vascular,Lymphangioma,,,,,FALSE
+226,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+227,,,Benign,Benign soft tissue proliferations - Vascular,Lymphangioma,,,,,FALSE
+228,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+229,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+230,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,histopathology,,TRUE
+231,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+232,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+233,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+234,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+235,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+236,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+237,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+238,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+239,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+240,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+241,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+242,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+243,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+244,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+245,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+246,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+247,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+248,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+249,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+250,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+251,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+252,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+253,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+254,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+255,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+256,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+257,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+258,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+259,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+260,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+261,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+262,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+263,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+264,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+265,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+266,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+267,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+268,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+269,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+270,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+271,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+272,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+273,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+274,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+275,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+276,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+277,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+278,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+279,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+280,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+281,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+282,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+283,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+284,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+285,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+286,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+287,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+288,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+289,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+290,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+291,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+292,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+293,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+294,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+295,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+296,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+297,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+298,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+299,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+300,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+301,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+302,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+303,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+304,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+305,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+306,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+307,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+308,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+309,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+310,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+311,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+312,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+313,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+314,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+315,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+316,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+317,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+318,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+319,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+320,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+321,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+322,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+323,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+324,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+325,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+326,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+327,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+328,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+329,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+330,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+331,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+332,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+333,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+334,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+335,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+336,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+337,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+338,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+339,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+340,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+341,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+342,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+343,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+344,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+345,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+346,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+347,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+348,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+349,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+350,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+351,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+352,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+353,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+354,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+355,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+356,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+357,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+358,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+359,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+360,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+361,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+362,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+363,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+364,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+365,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+366,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+367,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+368,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+369,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+370,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+371,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+372,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+373,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+374,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+375,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+376,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+377,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+378,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+379,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+380,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+381,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+382,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+383,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+384,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+385,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+386,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+387,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+388,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+389,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+390,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+391,,,Benign,Benign soft tissue proliferations - Vascular,Lymphangioma,,,,,FALSE
+392,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+393,,,Benign,Benign soft tissue proliferations - Vascular,Lymphangioma,,,,,FALSE
+394,,,Benign,Benign soft tissue proliferations - Vascular,Lymphangioma,,,,,FALSE
+395,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+396,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+397,,,Benign,Benign soft tissue proliferations - Vascular,Angiokeratoma,,,,,FALSE
+398,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+399,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+400,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+401,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+402,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+403,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+404,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+405,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+406,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+407,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+408,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+409,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+410,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+411,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+412,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+413,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+414,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+415,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE
+416,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+417,,,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",,,histopathology,,FALSE
+418,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+419,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,,FALSE
+420,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+421,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+422,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+423,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+424,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+425,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+426,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+427,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+428,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+429,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+430,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+431,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+432,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+433,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+434,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+435,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Nodular",,histopathology,,TRUE
+436,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+437,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+438,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+439,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+440,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+441,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+442,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+443,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+444,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+445,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+446,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+447,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+448,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+449,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+450,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+451,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+452,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+453,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+454,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+455,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+456,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+457,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+458,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+459,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+460,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+461,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+462,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+463,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+464,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+465,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+466,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+467,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+468,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+469,,,Benign,Benign soft tissue proliferations - Vascular,Lymphangioma,,,,,FALSE
+470,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+471,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+472,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,,FALSE
+473,,,Benign,Benign soft tissue proliferations - Vascular,Lymphangioma,,,,,FALSE
+474,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+475,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+476,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+477,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+478,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+479,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+480,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+481,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+482,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+483,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+484,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+485,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+486,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+487,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+488,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,,FALSE
+489,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+490,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,,TRUE
+491,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+492,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+493,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+494,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+495,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+496,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+497,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,,TRUE
+498,,,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,,,,,FALSE
+499,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,,FALSE
+500,palms/soles,acral NOS,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,,TRUE

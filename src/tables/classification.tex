@@ -1,0 +1,18 @@
+\begin{table}
+\caption{Binary malignant-vs-benign performance on the held-out test set (image-level bootstrap 95\% CIs). No patient_id is available for this subset, so patient-level clustering could not be applied.}
+\label{tab:classification_real}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+model & n & auroc & auroc_lo & auroc_hi & auprc & sens & spec & f1 & brier & ece \\
+\midrule
+DermaAttr-VLM (predicted attrs) & 118 & 0.963 & 0.930 & 0.988 & 0.918 & 0.933 & 0.875 & 0.812 & 0.067 & 0.053 \\
+DermaAttr-VLM (oracle attrs) & 118 & 0.962 & 0.926 & 0.988 & 0.919 & 0.933 & 0.841 & 0.778 & 0.066 & 0.066 \\
+No-attribute ablation & 118 & 0.959 & 0.921 & 0.988 & 0.914 & 0.933 & 0.852 & 0.789 & 0.068 & 0.066 \\
+ResNet-50 (linear probe) & 118 & 0.955 & 0.917 & 0.986 & 0.836 & 0.900 & 0.852 & 0.771 & 0.078 & 0.069 \\
+ConvNeXt-Tiny (linear probe) & 118 & 0.954 & 0.911 & 0.985 & 0.904 & 0.833 & 0.920 & 0.806 & 0.083 & 0.088 \\
+Swin-Tiny (linear probe) & 118 & 0.928 & 0.867 & 0.973 & 0.865 & 0.833 & 0.875 & 0.758 & 0.094 & 0.101 \\
+Standard LLaVA-LoRA & 118 & 0.872 & 0.797 & 0.937 & 0.636 & 0.900 & 0.795 & 0.720 & 0.150 & 0.151 \\
+Zero-shot LLaVA & 118 & 0.821 & 0.740 & 0.896 & 0.519 & 0.833 & 0.648 & 0.581 & 0.194 & 0.219 \\
+\bottomrule
+\end{tabular}
+\end{table}

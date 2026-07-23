@@ -1,0 +1,85 @@
+{
+  "n": 500,
+  "attrs": [
+    "asymmetry",
+    "border_irregularity",
+    "color_variegation",
+    "num_colors",
+    "pigment_network",
+    "dots_globules",
+    "streaks",
+    "blue_white_veil",
+    "regression_structures",
+    "vascular_patterns",
+    "ulceration_crusting"
+  ],
+  "stats": {
+    "asymmetry": {
+      "mean": 0.5698606967926025,
+      "std": 0.2762130796909332,
+      "min": 0.003804782871156931,
+      "max": 1.0
+    },
+    "border_irregularity": {
+      "mean": 0.661549985408783,
+      "std": 0.3579481244087219,
+      "min": 0.03872891515493393,
+      "max": 1.0
+    },
+    "color_variegation": {
+      "mean": 0.16206470131874084,
+      "std": 0.08601206541061401,
+      "min": 0.02163069136440754,
+      "max": 0.5165480375289917
+    },
+    "num_colors": {
+      "mean": 0.4226666986942291,
+      "std": 0.15245254337787628,
+      "min": 0.1666666716337204,
+      "max": 0.8333333134651184
+    },
+    "pigment_network": {
+      "mean": 0.6743099093437195,
+      "std": 0.2556881606578827,
+      "min": 0.12317583709955215,
+      "max": 1.0
+    },
+    "dots_globules": {
+      "mean": 0.05268111079931259,
+      "std": 0.06937143951654434,
+      "min": 0.0,
+      "max": 0.39509129524230957
+    },
+    "streaks": {
+      "mean": 0.13314291834831238,
+      "std": 0.18465346097946167,
+      "min": 0.0,
+      "max": 0.9173929691314697
+    },
+    "blue_white_veil": {
+      "mean": 0.021317679435014725,
+      "std": 0.0929897353053093,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "regression_structures": {
+      "mean": 0.02932746894657612,
+      "std": 0.14863300323486328,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "vascular_patterns": {
+      "mean": 0.43430835008621216,
+      "std": 0.4641523063182831,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "ulceration_crusting": {
+      "mean": 0.6556257605552673,
+      "std": 0.4325087070465088,
+      "min": 0.0,
+      "max": 1.0
+    }
+  },
+  "provenance": "algorithmic image-derived proxies (NOT expert annotations)"
+}

@@ -1,0 +1,6 @@
+{
+  "model": "resnet50",
+  "type": "frozen-features + class-weighted logistic (linear probe)",
+  "threshold": 0.2231426050805795,
+  "n_test": 118
+}

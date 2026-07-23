@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Please cite this software release, the associated manuscript, and the DERM12345 source dataset."
+title: "DermaAttr-VLM: Code and Derived Data"
+type: software
+version: 1.0.0
+date-released: 2026-07-23
+repository-code: "https://github.com/ucerd/llava_skin_cancer"
+license: MIT
+authors:
+  - family-names: Muhammad
+    given-names: Abdul Malik
+  - family-names: Hussain
+    given-names: Tassadaq
+  - family-names: Rehman
+    given-names: Muhammad ZiaUr
+  - family-names: Alharbi
+    given-names: Soltan
+  - family-names: Tan
+    given-names: Kim Geok
+preferred-citation:
+  type: article
+  title: "DermaAttr-VLM: An Attribute-Guided Vision–Language Framework for Dermoscopic Image Analysis"
+  authors:
+    - family-names: Muhammad
+      given-names: Abdul Malik
+    - family-names: Hussain
+      given-names: Tassadaq
+    - family-names: Rehman
+      given-names: Muhammad ZiaUr
+    - family-names: Alharbi
+      given-names: Soltan
+    - family-names: Tan
+      given-names: Kim Geok
+  year: 2026
+  notes: "Manuscript submitted for publication; update this record when the journal DOI is assigned."

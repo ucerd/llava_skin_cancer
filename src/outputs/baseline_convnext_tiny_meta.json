@@ -1,0 +1,6 @@
+{
+  "model": "convnext_tiny",
+  "type": "frozen-features + class-weighted logistic (linear probe)",
+  "threshold": 0.3130549435245154,
+  "n_test": 118
+}

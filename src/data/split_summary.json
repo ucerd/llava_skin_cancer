@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "n_images": 500,
+  "split_images": {
+    "train": 300,
+    "test": 126,
+    "val": 74
+  },
+  "binary_counts_overall": {
+    "benign": 350,
+    "malignant": 120,
+    "indeterminate_excluded": 30
+  },
+  "qa_counts": {
+    "train": 5999,
+    "val": 1481,
+    "test": 2520
+  },
+  "confirm_types": {
+    "not_reported": 380,
+    "histopathology": 120
+  },
+  "note": "Image-level stratified split; no patient_id available for 500-image subset."
+}

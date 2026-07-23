@@ -1,0 +1,29 @@
+name: Reproducibility or code issue
+description: Report a problem with code, data validation, or reproduction.
+title: "[Issue]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Do not attach source dermoscopic images, patient-identifiable information, credentials, or restricted model weights."
+  - type: input
+    id: version
+    attributes:
+      label: Repository version or commit
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem description
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Command and output
+      render: shell
+  - type: input
+    id: environment
+    attributes:
+      label: Operating system, Python, CUDA, and GPU

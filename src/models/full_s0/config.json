@@ -1,0 +1,7 @@
+{
+  "config": "full",
+  "epochs_done": 3,
+  "steps": 672,
+  "train_items": 1798,
+  "wall_seconds": 6711.027787208557
+}

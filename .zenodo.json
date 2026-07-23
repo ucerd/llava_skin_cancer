@@ -1,0 +1,33 @@
+{
+  "title": "DermaAttr-VLM: Code and Derived Data",
+  "description": "Code, frozen derived data, case-level outputs, and reproducibility materials for the DermaAttr-VLM dermoscopic vision-language study. Code is released under MIT; author-generated derived data and documentation are released under CC BY 4.0.",
+  "upload_type": "software",
+  "access_right": "open",
+  "creators": [
+    {"name": "Muhammad, Abdul Malik"},
+    {"name": "Hussain, Tassadaq"},
+    {"name": "Rehman, Muhammad ZiaUr"},
+    {"name": "Alharbi, Soltan"},
+    {"name": "Tan, Kim Geok"}
+  ],
+  "keywords": [
+    "dermoscopy",
+    "vision-language model",
+    "medical imaging",
+    "attribute-guided learning",
+    "LLaVA",
+    "explainable AI"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-024-04104-3",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.7910/DVN/DAXZ7P",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    }
+  ]
+}
